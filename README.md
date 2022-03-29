@@ -1,15 +1,14 @@
 <h1> Hi There! My name is Guillermo. </h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/siLquera">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siLquera&hide=contribs,prs&show_icons=true&theme=aura)
+  <img height="180em"   align="left" src="https://github-readme-stats.vercel.app/api?username=siLquera&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siLquera&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=aura)
-
-<img align="center" width="350" height="180" src="https://c.tenor.com/DtB2VimNGWMAAAAC/jujutsu-kaisen0-yuta-okkotsu.giff">
+<img width="460em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siLquera&langs_count=7&theme=react" />
 
 </div>
+ 
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
