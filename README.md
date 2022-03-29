@@ -1,6 +1,6 @@
 <h1> Hi There! My name is Guillermo. </h1>
 
-<div align="center">
+<div>
   <a href="https://github.com/siLquera">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siLquera&hide=contribs,prs&show_icons=true&theme=aura)
