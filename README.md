@@ -1,12 +1,16 @@
-<h1> Hi! My name is Guillermo. </h1>
+<h1> Hi There! My name is Guillermo. </h1>
 
 <div>
   <a href="https://github.com/siLquera">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=siLquera&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siLquera&hide=contribs,prs&show_icons=true&theme=dracula)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siLquera&hide=contribs,prs&show_icons=true&theme=aura)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siLquera&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=aura)
+
+<img align="center" width="350" height="180" src="https://c.tenor.com/DtB2VimNGWMAAAAC/jujutsu-kaisen0-yuta-okkotsu.giff">
 
 </div>
- <br>
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,8 +27,7 @@
   <a href="https://twitter.com/siuquii" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   target="_blank"></a>
   </div>
-  
-  
+
   <div>
  
   ![Snake animation](https://github.com/siLquera/siLquera/blob/output/github-contribution-grid-snake.svg)
