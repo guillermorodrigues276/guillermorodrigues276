@@ -5,7 +5,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siLquera&hide=contribs,prs&show_icons=true&theme=aura)
     
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siLquera&langs_count=7&theme=aura" />
+<img width="450em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siLquera&langs_count=7&theme=aura" />
 
 </div>
  
