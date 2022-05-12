@@ -9,6 +9,7 @@
 ##
     
  <br>   
+  <div align="center">
 <img width="350" height="180" align="center" src="https://c.tenor.com/DtB2VimNGWMAAAAC/jujutsu-kaisen0-yuta-okkotsu.giff%22%3E">
     
 </div>
