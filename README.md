@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/guillermorodrigues276">
- <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=siLquera&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+ <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=guillermorodrigues276&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermorodrigues276&langs_count=7&theme=aura" />
     
 ##
@@ -30,6 +30,6 @@
 
   <div>
  
-  ![Snake animation](https://github.com/siLquera/siLquera/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guillermorodrigues276/guillermorodrigues276/blob/output/github-contribution-grid-snake.svg)
  
 </div>
