@@ -10,7 +10,7 @@
     
  <br>   
   <div align="center">
-<img width="350" height="180" align="center" src="https://c.tenor.com/DtB2VimNGWMAAAAC/jujutsu-kaisen0-yuta-okkotsu.giff%22%3E">
+<img width="350" height="180" align="center" src="https://i.pinimg.com/originals/19/84/b6/1984b674b62849660e34d8ce86ccdc8c.gif">
     
 </div>
  
