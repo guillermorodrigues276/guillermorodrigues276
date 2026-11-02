@@ -1,4 +1,8 @@
-<h2 align="center">⚡ Technologies</h2>
+## Hi, I'm Guillermo
+
+I'm a developer in training interested in building useful digital products. I enjoy exploring web development, automation, and user experience while continuing to learn through personal projects.
+
+## Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -12,7 +16,7 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Apointa
 
